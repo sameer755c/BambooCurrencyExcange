@@ -1,0 +1,12 @@
+Future Enhancement's 
+
+1. Cache implementations. 
+2. proper logging mechanism. 
+3. adding Custom validations and Data annotations etc. 
+4. proper branching strategy. 
+5. JWT token based authentication's.
+6. proper pagination can apply.
+
+
+ 
+ 

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BambooCurrencyExchangeAPI", "BambooCurrencyExchangeAPI.csproj", "{6DB90AB6-D496-40BE-ADDD-1992D504FC89}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BambooCardAPITests", "..\BambooCardAPITests\BambooCardAPITests.csproj", "{38327A90-C725-45C9-8504-7A8089327103}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6DB90AB6-D496-40BE-ADDD-1992D504FC89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DB90AB6-D496-40BE-ADDD-1992D504FC89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DB90AB6-D496-40BE-ADDD-1992D504FC89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DB90AB6-D496-40BE-ADDD-1992D504FC89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38327A90-C725-45C9-8504-7A8089327103}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38327A90-C725-45C9-8504-7A8089327103}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38327A90-C725-45C9-8504-7A8089327103}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38327A90-C725-45C9-8504-7A8089327103}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {10F1A504-0453-4CD8-BA71-3CA84CA7CDD2}
+	EndGlobalSection
+EndGlobal
