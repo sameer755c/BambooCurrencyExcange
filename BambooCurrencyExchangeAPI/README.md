@@ -20,4 +20,5 @@
    ```bash
    git clone https://github.com/sameer755c/BambooCurrencyExcange.git
    cd BambooCardAPI
+3. open solution file in the BambooCurrencyExchangeAPI folder and you will see api and test project.
 
