@@ -18,5 +18,6 @@
 1. Ensure you have [.NET 8 SDK](https://dotnet.microsoft.com/download/dotnet/8.0) installed.
 2. Clone the repository:
    ```bash
-   git clone https://github.com/sameer755c/BambooCardAPI.git
+   git clone https://github.com/sameer755c/BambooCurrencyExcange.git
    cd BambooCardAPI
+
